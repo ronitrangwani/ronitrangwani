@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Ronit Rangwani</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1365253/screenshots/11419536/media/c871d8a271fa0c77b5ea9c86d155c56d.gif">
-
-
+  
 - 🌱 I’m currently working on **Backend Development**
 
 - 👨‍💻 All of my projects are available at [Ronit's-Work](digg-in-meals.netlify.app)
