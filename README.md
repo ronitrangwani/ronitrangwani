@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   
 - 🌱 I’m currently working on **Backend Development**
 
-- 👨‍💻 All of my projects are available at [Ronit's-Work](digg-in-meals.netlify.app)
+- 👨‍💻 All of my projects are available at [Ronit's-Work](https://portfolio-ronit-rangwani.netlify.app/)
 
 - 👯 I’m looking to collaborate on **competitive programming.**
 
